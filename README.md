@@ -3,7 +3,7 @@
 ### URL public
 ```
 Back
-http://front-test-masiv.s3-website.us-east-2.amazonaws.com/
+https://fspva3ooo5.execute-api.us-east-2.amazonaws.com/v1/search?idComic=IDOFCOMIC
 ```
 
 ### How works
